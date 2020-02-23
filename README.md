@@ -1,2 +1,8 @@
 # Machine_learning_with_Python_w_sklearn-tensorflow
-Machine learning with Python (sklearn, tensorflow)
+## Library for Data Science
+Numpy, Panda, Visualization SNS, Machine Learning Sklearn
+
+# Machine Learning with sklearn & tensorflow
+## Fundamental of Machine Learning (sklearn)
+
+## Neural Networks and Deep learning (tensorflow)
