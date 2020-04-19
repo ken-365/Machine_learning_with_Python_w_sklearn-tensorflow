@@ -20,5 +20,3 @@ Machine Learning Sklearn
   - Regularized Regression
   - Ensemble (Random forest, Boosting)
   - Dimensionality reduction and unsupervised learning
-
-### Neural Networks and Deep learning (tensorflow)
