@@ -1,5 +1,7 @@
 # Machine learning with Python with (sklearn,tensorflow)
 ## Library for Data Science
+access :http://htmlpreview.github.io/?https://github.com/pkms-uchi/Machine_learning_with_Python_w_sklearn-tensorflow/blob/master/Library%20for%20Data%20Science.html   
+
 Numpy, Panda, Visualization SNS  
 Machine Learning Sklearn
   - Naive Bayes Classification
