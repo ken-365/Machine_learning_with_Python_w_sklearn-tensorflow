@@ -1,6 +1,6 @@
-# Machine learning with Python with (sklearn,tensorflow)
+# Machine learning with Python with (sklearn,tensorflow) **[Link](http://htmlpreview.github.io/?https://github.com/pkms-uchi/Machine_learning_with_Python_w_sklearn-tensorflow/blob/master/Library%20for%20Data%20Science.html)**
 ## Library for Data Science
-(access)[http://htmlpreview.github.io/?https://github.com/pkms-uchi/Machine_learning_with_Python_w_sklearn-tensorflow/blob/master/Library%20for%20Data%20Science.html]
+
 
 Numpy, Panda, Visualization SNS  
 Machine Learning Sklearn
@@ -14,7 +14,7 @@ Machine Learning Sklearn
   - Gaussian Mixture Models
   - KDE
 
-## Machine Learning with sklearn & tensorflow
+## Machine Learning with sklearn & tensorflow **[Link](https://github.com/pkms-uchi/Machine_learning_with_Python_w_sklearn-tensorflow/blob/master/Machine%20Learning%20Fundamental(sklearn).html)**
 ### Fundamental of Machine Learning (sklearn)
 End to End ML project  
 Machine Learning Sklearn
